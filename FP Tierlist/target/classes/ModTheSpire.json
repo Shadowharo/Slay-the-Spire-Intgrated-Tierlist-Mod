@@ -1,0 +1,11 @@
+{
+  "modid": "FP_Tierlist",
+  "name": "Integrated Tierlist Mod",
+  "author_list": ["ShadowHaro based on Card Picker by Tofu White"],
+  "description": "This mod intergrates Frost Prime Tierlist directly into card rewards",
+  "version": "1.1.0",
+  "sts_version": "12-18-2022",
+  "mts_version": "3.30.0",
+  "dependencies": ["basemod", "stslib"],
+  "update_json": ""
+}
